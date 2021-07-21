@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\bin\Debug\AutoMathExercise.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\bin\Debug\AutoMathExercise.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\bin\Debug\AutoMathExercise.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.MainWindow.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.OptionsForm.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\AutoMathExercise\AutoMathExercise\obj\Debug\AutoMathExercise.Log.resources
